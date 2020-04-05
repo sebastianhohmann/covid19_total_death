@@ -17,7 +17,7 @@ Additional contributors
 
 Objective
 
-This project aims at estimating Covid-19 mortality from official statistics on total deaths. We aim to constantly update the analysis as new data becomes available. We also aim to add robustness checks and alternative estimates in an effor to accurately determine Covid-19 deaths.
+This project aims at estimating Covid-19 mortality from official statistics on total deaths. We aim to constantly update the analysis as new data becomes available. We also aim to add robustness checks and alternative estimates in an effor to accurately determine Covid-19 deaths. The results of the analysis are regularly updated in this [article](https://www.dropbox.com/s/yl2x6js5vo1kyaa/DeathCount_final_GHS.pdf?dl=0).
 
 We would like to replicate the analysis for as many countries as possible. If you have data or you know where we can access data in a country, please share them with us. We are happy to replicate the analysis, share the results with you, and update the analysis so that other people can access this information.
 If you have the data and you want to perform the analysis yourself, in what follows you will find all material you need. However, we would appreciate if you share with us the results, with a summary of how you conducted the analysis. In particular, with explicit reference to changes in the codes or methodology. This is to assure that results are comparable across countries. 
