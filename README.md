@@ -24,7 +24,7 @@ If you have the data and you want to perform the analysis yourself, in what foll
  
 Methodology
 
-We estimate Covid-19 mortality for several countries. We always use two inputs
+We estimate Covid-19 mortality for several countries. We always use two inputs:
 
 (i) Official numbers for total mortality (not just Covid-19) in a country. 
 
