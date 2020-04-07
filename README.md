@@ -32,14 +32,16 @@ We estimate Covid-19 mortality for several countries. We always use two inputs:
 
 We carry out the following steps:
 
-1) Using only the data in (i), we take the average of the cumulative total number of deaths in each of the previous 5 years (2015-2019) (sometimes we have fewer years available). 
+1) Taking as the starging point the day of the year before the first Covid-19 death, we compute, for each of the years 2015-2020, the cumulative total of deaths. 
 
-2) We compute daily growth using this average of the cumulative totals. 
+2) Using the cumulative totals, we compute daily growth rates for each year 2015-2019. 
 
-3) We fix the number of people that died on the day before the first Covid-19 death was recorded in 2020 and extrapolate this number forward using the growth rate computed in 2). This yields what we  call the "counterfactual" for 2020. 
+3) We take the average of the growth rates of the previous five years. (An earlier version of our work had reversed steps 2) and 3), that is rather than computing growth for each of the past five years separately and then averaging, we first averaged the cumulative totals and computed the daily growth from this. This change alters our results only very marginally. Please see the commit history of this repository for the earlier versions). 
 
-4) We add the official number of Covid-19 deaths from (ii) to the counterfactual created in 3).
+4) We fix the number of people that died on the day before the first Covid-19 death was recorded in 2020 and extrapolate this number forward using the average growth rate computed in 3). This yields what we  call the "counterfactual" for 2020. 
 
-5) The difference between the actually observed total number of deaths in (i) and the counterfactual in 3) is our estimate for Covid-19 mortality. The difference between (i) and 4) are excess deaths  in 2020 that are not designated official Covid-19 deaths.
+5) We add the official number of Covid-19 deaths from (ii) to the counterfactual created in 4).
+
+6) The difference between the actually observed total number of deaths in (i) and the counterfactual in 4) is our estimate for Covid-19 mortality. The difference between (i) and 5) are excess deaths in 2020 that are not designated official Covid-19 deaths.
 
 Please see the folders for each country for examples on how this method is implemented in python.
