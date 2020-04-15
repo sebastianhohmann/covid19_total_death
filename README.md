@@ -21,6 +21,8 @@ Estimating Covid-19 mortality from official statistics on total deaths
 
 - Marino van Zelst (https://www.marinovanzelst.com/) for pointing us to the Dutch data
 
+- Special thanks to Mark Rabkin (https://twitter.com/mrabkin) for pointing us to the Spanish data and helping us understand their limitations
+
 **Objective**
 
 This project aims at estimating Covid-19 mortality from official statistics on total deaths. We aim to constantly update the analysis as new data becomes available. We also aim to add robustness checks and alternative estimates in an effort to accurately determine Covid-19 deaths. The results of the analysis are regularly updated in this [article](https://www.dropbox.com/s/tkusww74gd5qbzc/DeathCount_final_GHS.pdf?dl=0).
