@@ -1,5 +1,5 @@
 # covid19_total_death
-Estimating Covid-19 mortality from official statistics on total deaths
+Estimating Covid-19 mortality from official statistics on all-cause mortality
 
 **Analysis by** 
 
