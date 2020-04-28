@@ -1,93 +1,94 @@
-﻿Data as of,Group,State,Indicator,Start week,End week,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1),All Influenza Deaths (J09-J11)
-4/17/2020,By week,United States,Total Deaths,2/1/2020,4/18/2020,"17,229","615,428",0.9,"49,013","7,676","5,411"
-4/17/2020,By week,United States,Week-ending,2/1/2020,2/1/2020,0,"56,645",0.96,"3,648",0,454
-4/17/2020,By week,United States,Week-ending,2/8/2020,2/8/2020,0,"57,225",0.96,"3,640",0,488
-4/17/2020,By week,United States,Week-ending,2/15/2020,2/15/2020,0,"56,416",0.96,"3,659",0,509
-4/17/2020,By week,United States,Week-ending,2/22/2020,2/22/2020,0,"56,120",0.97,"3,518",0,525
-4/17/2020,By week,United States,Week-ending,2/29/2020,2/29/2020,5,"55,678",0.97,"3,544",3,598
-4/17/2020,By week,United States,Week-ending,3/7/2020,3/7/2020,20,"55,185",0.95,"3,652",11,575
-4/17/2020,By week,United States,Week-ending,3/14/2020,3/14/2020,44,"53,142",0.93,"3,607",22,566
-4/17/2020,By week,United States,Week-ending,3/21/2020,3/21/2020,464,"52,813",0.93,"4,041",212,482
-4/17/2020,By week,United States,Week-ending,3/28/2020,3/28/2020,"2,441","55,027",0.98,"5,339","1,133",381
-4/17/2020,By week,United States,Week-ending,4/4/2020,4/4/2020,"6,500","57,631",1.03,"7,508","3,160",389
-4/17/2020,By week,United States,Week-ending,4/11/2020,4/11/2020,"6,524","46,227",0.84,"5,650","2,701",364
-4/17/2020,By week,United States,Week-ending,4/18/2020,4/18/2020,"1,231","13,319",0.25,"1,207",434,80
-4/17/2020,By age,United States,All ages,2/1/2020,4/18/2020,"17,229","615,428",0.9,"49,013","7,676","5,411"
-4/17/2020,By age,United States,Under 1 year,2/1/2020,4/18/2020,0,"3,224",0.9,28,0,11
-4/17/2020,By age,United States,1–4 years,2/1/2020,4/18/2020,2,636,0.9,31,2,28
-4/17/2020,By age,United States,5–14 years,2/1/2020,4/18/2020,1,939,0.9,33,0,38
-4/17/2020,By age,United States,15–24 years,2/1/2020,4/18/2020,17,"5,474",0.9,110,6,38
-4/17/2020,By age,United States,25–34 years,2/1/2020,4/18/2020,139,"11,595",0.9,346,57,121
-4/17/2020,By age,United States,35–44 years,2/1/2020,4/18/2020,351,"16,718",0.9,752,124,192
-4/17/2020,By age,United States,45–54 years,2/1/2020,4/18/2020,943,"32,207",0.9,"1,974",375,467
-4/17/2020,By age,United States,55–64 years,2/1/2020,4/18/2020,"2,258","77,835",0.9,"5,877",945,"1,001"
-4/17/2020,By age,United States,65–74 years,2/1/2020,4/18/2020,"3,829","121,198",0.9,"10,137","1,613","1,191"
-4/17/2020,By age,United States,75–84 years,2/1/2020,4/18/2020,"4,780","152,251",0.9,"13,612","2,232","1,199"
-4/17/2020,By age,United States,85 years and over,2/1/2020,4/18/2020,"4,909","193,351",0.9,"16,113","2,322","1,125"
-4/17/2020,By state,United States,Total US,2/1/2020,4/18/2020,"17,229","615,428",0.9,"49,013","7,676","5,411"
-4/17/2020,By state,Alabama,Alabama,2/1/2020,4/18/2020,57,"10,777",0.85,650,19,81
-4/17/2020,By state,Alaska,Alaska,2/1/2020,4/18/2020,3,766,0.76,37,2,3
-4/17/2020,By state,Arizona,Arizona,2/1/2020,4/18/2020,105,"14,169",0.97,965,62,102
-4/17/2020,By state,Arkansas,Arkansas,2/1/2020,4/18/2020,15,"6,955",0.9,468,3,64
-4/17/2020,By state,California,California,2/1/2020,4/18/2020,575,"61,390",0.93,"5,068",311,534
-4/17/2020,By state,Colorado,Colorado,2/1/2020,4/18/2020,270,"9,338",0.98,743,174,88
-4/17/2020,By state,Connecticut,Connecticut,2/1/2020,4/18/2020,0,0,0,0,0,0
-4/17/2020,By state,Delaware,Delaware,2/1/2020,4/18/2020,9,"1,665",0.74,82,4,11
-4/17/2020,By state,District of Columbia,District of Columbia,2/1/2020,4/18/2020,24,"1,265",0.87,123,24,6
-4/17/2020,By state,Florida,Florida,2/1/2020,4/18/2020,459,"48,156",0.95,"3,371",261,270
-4/17/2020,By state,Georgia,Georgia,2/1/2020,4/18/2020,251,"17,077",0.85,"1,059",123,89
-4/17/2020,By state,Hawaii,Hawaii,2/1/2020,4/18/2020,7,"2,601",0.94,180,3,18
-4/17/2020,By state,Idaho,Idaho,2/1/2020,4/18/2020,33,"3,238",0.94,180,9,24
-4/17/2020,By state,Illinois,Illinois,2/1/2020,4/18/2020,250,"24,604",0.96,"1,886",150,163
-4/17/2020,By state,Indiana,Indiana,2/1/2020,4/18/2020,153,"14,574",0.91,"1,203",88,117
-4/17/2020,By state,Iowa,Iowa,2/1/2020,4/18/2020,36,"6,648",0.91,468,7,78
-4/17/2020,By state,Kansas,Kansas,2/1/2020,4/18/2020,33,"5,582",0.86,384,16,83
-4/17/2020,By state,Kentucky,Kentucky,2/1/2020,4/18/2020,52,"9,434",0.81,828,35,83
-4/17/2020,By state,Louisiana,Louisiana,2/1/2020,4/18/2020,360,"9,224",0.85,562,138,60
-4/17/2020,By state,Maine,Maine,2/1/2020,4/18/2020,18,"3,373",0.95,289,9,30
-4/17/2020,By state,Maryland,Maryland,2/1/2020,4/18/2020,260,"11,752",0.97,971,120,101
-4/17/2020,By state,Massachusetts,Massachusetts,2/1/2020,4/18/2020,660,"14,313",0.98,"1,430",282,147
-4/17/2020,By state,Michigan,Michigan,2/1/2020,4/18/2020,535,"22,293",0.95,"1,686",260,206
-4/17/2020,By state,Minnesota,Minnesota,2/1/2020,4/18/2020,67,"10,120",0.96,717,28,111
-4/17/2020,By state,Mississippi,Mississippi,2/1/2020,4/18/2020,102,"7,110",0.94,601,44,51
-4/17/2020,By state,Missouri,Missouri,2/1/2020,4/18/2020,79,"13,297",0.85,820,36,163
-4/17/2020,By state,Montana,Montana,2/1/2020,4/18/2020,6,"2,248",0.9,132,1,32
-4/17/2020,By state,Nebraska,Nebraska,2/1/2020,4/18/2020,7,"3,589",0.87,274,2,25
-4/17/2020,By state,Nevada,Nevada,2/1/2020,4/18/2020,76,"5,663",0.91,447,62,35
-4/17/2020,By state,New Hampshire,New Hampshire,2/1/2020,4/18/2020,31,"2,865",0.97,192,11,29
-4/17/2020,By state,New Jersey,New Jersey,2/1/2020,4/18/2020,"1,378","19,038",1.05,"1,982",710,96
-4/17/2020,By state,New Mexico,New Mexico,2/1/2020,4/18/2020,16,"3,767",0.84,254,11,24
-4/17/2020,By state,New York,New York,2/1/2020,4/18/2020,"2,625","26,769",1.1,"3,657","1,423",183
-4/17/2020,By state,New York City,New York City,2/1/2020,4/18/2020,"6,862","24,090",1.85,"4,191","2,477",671
-4/17/2020,By state,North Carolina,North Carolina,2/1/2020,4/18/2020,0,"8,762",0.38,533,0,99
-4/17/2020,By state,North Dakota,North Dakota,2/1/2020,4/18/2020,3,"1,385",0.82,118,0,18
-4/17/2020,By state,Ohio,Ohio,2/1/2020,4/18/2020,40,"23,709",0.79,"1,282",18,215
-4/17/2020,By state,Oklahoma,Oklahoma,2/1/2020,4/18/2020,60,"7,848",0.81,693,22,88
-4/17/2020,By state,Oregon,Oregon,2/1/2020,4/18/2020,41,"7,384",0.84,390,19,54
-4/17/2020,By state,Pennsylvania,Pennsylvania,2/1/2020,4/18/2020,672,"23,604",0.71,"1,670",290,171
-4/17/2020,By state,Rhode Island,Rhode Island,2/1/2020,4/18/2020,9,"1,894",0.75,94,4,21
-4/17/2020,By state,South Carolina,South Carolina,2/1/2020,4/18/2020,76,"11,216",0.95,664,32,88
-4/17/2020,By state,South Dakota,South Dakota,2/1/2020,4/18/2020,6,"1,685",0.85,135,2,20
-4/17/2020,By state,Tennessee,Tennessee,2/1/2020,4/18/2020,92,"16,272",0.91,"1,209",43,117
-4/17/2020,By state,Texas,Texas,2/1/2020,4/18/2020,176,"42,917",0.88,"3,085",66,297
-4/17/2020,By state,Utah,Utah,2/1/2020,4/18/2020,13,"4,172",0.92,249,5,37
-4/17/2020,By state,Vermont,Vermont,2/1/2020,4/18/2020,28,"1,385",0.99,91,8,15
-4/17/2020,By state,Virginia,Virginia,2/1/2020,4/18/2020,75,"15,191",0.92,767,25,95
-4/17/2020,By state,Washington,Washington,2/1/2020,4/18/2020,420,"12,706",0.92,"1,054",221,95
-4/17/2020,By state,West Virginia,West Virginia,2/1/2020,4/18/2020,3,"4,361",0.79,306,0,55
-4/17/2020,By state,Wisconsin,Wisconsin,2/1/2020,4/18/2020,101,"12,196",0.96,694,16,141
-4/17/2020,By state,Wyoming,Wyoming,2/1/2020,4/18/2020,0,991,0.92,79,0,7
-4/17/2020,By state,Puerto Rico,Puerto Rico,2/1/2020,4/18/2020,44,"4,382",0.63,622,23,27
-4/17/2020,By sex,United States,Total deaths,2/1/2020,4/18/2020,"17,229","615,428",0.9,"49,013","7,676","5,411"
-4/17/2020,By sex,United States,Male,2/1/2020,4/18/2020,"10,129","317,036",0.9,"26,049","4,491","2,749"
-4/17/2020,By sex,United States,Female,2/1/2020,4/18/2020,"7,100","298,371",0.9,"22,964","3,185","2,662"
-4/17/2020,By sex,United States,Unknown,2/1/2020,4/18/2020,0,21,0,0,0,0
-4/17/2020,By place of death,United States,Total,2/1/2020,4/18/2020,"17,229","615,428",0.9,"49,013","7,676","5,411"
-4/17/2020,By place of death,United States,"Healthcare setting, inpatient",2/1/2020,4/18/2020,"12,070","175,180",0.9,"33,258","6,132","3,470"
-4/17/2020,By place of death,United States,"Healthcare setting, outpatient or emergency room",2/1/2020,4/18/2020,984,"36,833",0.9,"1,904",368,171
-4/17/2020,By place of death,United States,"Healthcare setting, dead on arrival",2/1/2020,4/18/2020,23,"1,619",0.9,41,9,10
-4/17/2020,By place of death,United States,Decedent's home,2/1/2020,4/18/2020,"1,458","199,247",0.9,"3,842",155,999
-4/17/2020,By place of death,United States,Hospice facility,2/1/2020,4/18/2020,180,"45,243",0.9,"2,691",98,277
-4/17/2020,By place of death,United States,Nursing home/long term care facility,2/1/2020,4/18/2020,"2,363","118,367",0.9,"6,466",871,414
-4/17/2020,By place of death,United States,Other,2/1/2020,4/18/2020,149,"38,837",0.9,800,42,70
-4/17/2020,By place of death,United States,Place of death unknown,2/1/2020,4/18/2020,2,102,0.9,11,1,0
+﻿Data as of,Group,State,Indicator,Start week,End week,All COVID-19 Deaths (U07.1),Deaths from All Causes,Percent of Expected Deaths,All Pneumonia Deaths (J12.0-J18.9),Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1),All Influenza Deaths (J09-J11),"Pneumonia, Influenza, and COVID-19 Deaths",Footnote
+04/27/2020,By week,United States,Total Deaths,02/01/2020,04/25/2020,"27,674","673,580",0.91,"57,480","12,398","5,668","77,695",
+04/27/2020,By week,United States,Weekending,02/01/2020,02/01/2020,0,"57,165",0.96,"3,681",0,467,"4,148",
+04/27/2020,By week,United States,Weekending,02/08/2020,02/08/2020,0,"57,301",0.96,"3,646",0,491,"4,137",
+04/27/2020,By week,United States,Weekending,02/15/2020,02/15/2020,0,"56,523",0.96,"3,670",0,511,"4,181",
+04/27/2020,By week,United States,Weekending,02/22/2020,02/22/2020,0,"56,295",0.97,"3,530",0,530,"4,060",
+04/27/2020,By week,United States,Weekending,02/29/2020,02/29/2020,5,"55,999",0.98,"3,565",3,604,"4,171",
+04/27/2020,By week,United States,Weekending,03/07/2020,03/07/2020,25,"55,562",0.96,"3,681",14,580,"4,271",
+04/27/2020,By week,United States,Weekending,03/14/2020,03/14/2020,49,"53,606",0.94,"3,651",25,570,"4,244",
+04/27/2020,By week,United States,Weekending,03/21/2020,03/21/2020,478,"53,553",0.94,"4,106",223,490,"4,845",
+04/27/2020,By week,United States,Weekending,03/28/2020,03/28/2020,"2,596","56,567",1.01,"5,518","1,198",395,"7,266",
+04/27/2020,By week,United States,Weekending,04/04/2020,04/04/2020,"7,586","62,131",1.11,"8,371","3,669",417,"12,498",
+04/27/2020,By week,United States,Weekending,04/11/2020,04/11/2020,"10,610","60,783",1.1,"8,659","4,678",406,"14,690",
+04/27/2020,By week,United States,Weekending,04/18/2020,04/18/2020,"5,864","40,060",0.74,"4,730","2,380",190,"8,254",
+04/27/2020,By week,United States,Weekending,04/25/2020,04/25/2020,461,"8,035",0.15,672,208,17,930,
+04/27/2020,By age,United States,All ages,02/01/2020,04/25/2020,"27,674","673,580",0.91,"57,480","12,398","5,668",,
+04/27/2020,By age,United States,Under 1 year,02/01/2020,04/25/2020,0,"3,489",0.91,32,0,11,,
+04/27/2020,By age,United States,1–4 years,02/01/2020,04/25/2020,2,686,0.91,32,2,28,,
+04/27/2020,By age,United States,5–14 years,02/01/2020,04/25/2020,1,"1,002",0.91,35,0,39,,
+04/27/2020,By age,United States,15–24 years,02/01/2020,04/25/2020,28,"5,978",0.91,123,13,40,,
+04/27/2020,By age,United States,25–34 years,02/01/2020,04/25/2020,220,"12,659",0.91,412,93,126,,
+04/27/2020,By age,United States,35–44 years,02/01/2020,04/25/2020,530,"18,256",0.91,912,206,203,,
+04/27/2020,By age,United States,45–54 years,02/01/2020,04/25/2020,"1,484","35,433",0.91,"2,395",614,490,,
+04/27/2020,By age,United States,55–64 years,02/01/2020,04/25/2020,"3,537","85,259",0.91,"6,944","1,536","1,048",,
+04/27/2020,By age,United States,65–74 years,02/01/2020,04/25/2020,"6,077","132,608",0.91,"11,951","2,666","1,241",,
+04/27/2020,By age,United States,75–84 years,02/01/2020,04/25/2020,"7,585","166,687",0.91,"15,897","3,512","1,259",,
+04/27/2020,By age,United States,85 years and over,02/01/2020,04/25/2020,"8,210","211,523",0.91,"18,747","3,756","1,183",,
+04/27/2020,By state,United States,Total US,02/01/2020,04/25/2020,"27,674","673,580",0.91,"57,480","12,398","5,668",,
+04/27/2020,By state,Alabama,Alabama,02/01/2020,04/25/2020,127,"11,783",0.87,735,38,82,,
+04/27/2020,By state,Alaska,Alaska,02/01/2020,04/25/2020,,789,0.73,37,,,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Arizona,Arizona,02/01/2020,04/25/2020,193,"14,940",0.95,"1,063",101,104,,
+04/27/2020,By state,Arkansas,Arkansas,02/01/2020,04/25/2020,19,"7,514",0.91,500,,67,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,California,California,02/01/2020,04/25/2020,820,"65,913",0.93,"5,519",456,543,,
+04/27/2020,By state,Colorado,Colorado,02/01/2020,04/25/2020,392,"10,114",0.98,849,243,90,,
+04/27/2020,By state,Connecticut,Connecticut,02/01/2020,04/25/2020,,461,0.06,29,0,,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Delaware,Delaware,02/01/2020,04/25/2020,28,"1,958",0.81,109,14,14,,
+04/27/2020,By state,District of Columbia,District of Columbia,02/01/2020,04/25/2020,48,"1,369",0.87,153,48,,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Florida,Florida,02/01/2020,04/25/2020,677,"51,716",0.94,"3,700",371,277,,
+04/27/2020,By state,Georgia,Georgia,02/01/2020,04/25/2020,382,"18,624",0.85,"1,208",184,91,,
+04/27/2020,By state,Hawaii,Hawaii,02/01/2020,04/25/2020,,"2,662",0.89,182,,18,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Idaho,Idaho,02/01/2020,04/25/2020,41,"3,448",0.93,190,12,24,,
+04/27/2020,By state,Illinois,Illinois,02/01/2020,04/25/2020,974,"27,879",1.01,"2,483",555,169,,
+04/27/2020,By state,Indiana,Indiana,02/01/2020,04/25/2020,239,"15,398",0.89,"1,307",133,118,,
+04/27/2020,By state,Iowa,Iowa,02/01/2020,04/25/2020,68,"7,125",0.9,504,16,80,,
+04/27/2020,By state,Kansas,Kansas,02/01/2020,04/25/2020,78,"6,308",0.91,434,34,85,,
+04/27/2020,By state,Kentucky,Kentucky,02/01/2020,04/25/2020,87,"10,234",0.81,913,55,84,,
+04/27/2020,By state,Louisiana,Louisiana,02/01/2020,04/25/2020,538,"10,304",0.88,680,220,60,,
+04/27/2020,By state,Maine,Maine,02/01/2020,04/25/2020,31,"3,668",0.96,308,10,30,,
+04/27/2020,By state,Maryland,Maryland,02/01/2020,04/25/2020,478,"12,854",0.98,"1,131",211,105,,
+04/27/2020,By state,Massachusetts,Massachusetts,02/01/2020,04/25/2020,"1,023","15,900",1.01,"1,681",407,148,,
+04/27/2020,By state,Michigan,Michigan,02/01/2020,04/25/2020,"1,462","25,336",1,"2,322",695,216,,
+04/27/2020,By state,Minnesota,Minnesota,02/01/2020,04/25/2020,114,"10,799",0.95,786,44,111,,
+04/27/2020,By state,Mississippi,Mississippi,02/01/2020,04/25/2020,154,"7,706",0.95,694,78,51,,
+04/27/2020,By state,Missouri,Missouri,02/01/2020,04/25/2020,136,"14,378",0.85,903,55,167,,
+04/27/2020,By state,Montana,Montana,02/01/2020,04/25/2020,,"2,248",0.84,132,,32,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Nebraska,Nebraska,02/01/2020,04/25/2020,21,"3,696",0.84,285,,27,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Nevada,Nevada,02/01/2020,04/25/2020,105,"6,121",0.91,493,84,35,,
+04/27/2020,By state,New Hampshire,New Hampshire,02/01/2020,04/25/2020,47,"3,068",0.95,212,16,29,,
+04/27/2020,By state,New Jersey,New Jersey,02/01/2020,04/25/2020,"3,037","23,224",1.19,"3,125","1,569",104,,
+04/27/2020,By state,New Mexico,New Mexico,02/01/2020,04/25/2020,28,"4,028",0.83,284,20,25,,
+04/27/2020,By state,New York,New York,02/01/2020,04/25/2020,"4,283","30,423",1.16,"4,709","2,228",187,,
+04/27/2020,By state,New York City,New York City,02/01/2020,04/25/2020,"9,401","28,139",2.01,"5,350","3,410",792,,
+04/27/2020,By state,North Carolina,North Carolina,02/01/2020,04/25/2020,0,"9,131",0.37,557,0,107,,
+04/27/2020,By state,North Dakota,North Dakota,02/01/2020,04/25/2020,,"1,508",0.83,135,,18,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Ohio,Ohio,02/01/2020,04/25/2020,168,"24,258",0.75,"1,382",73,217,,
+04/27/2020,By state,Oklahoma,Oklahoma,02/01/2020,04/25/2020,89,"8,389",0.8,740,37,90,,
+04/27/2020,By state,Oregon,Oregon,02/01/2020,04/25/2020,58,"7,900",0.83,420,25,56,,
+04/27/2020,By state,Pennsylvania,Pennsylvania,02/01/2020,04/25/2020,688,"25,746",0.72,"1,800",296,173,,
+04/27/2020,By state,Rhode Island,Rhode Island,02/01/2020,04/25/2020,46,"2,124",0.78,113,10,23,,
+04/27/2020,By state,South Carolina,South Carolina,02/01/2020,04/25/2020,121,"12,313",0.97,738,48,91,,
+04/27/2020,By state,South Dakota,South Dakota,02/01/2020,04/25/2020,,"1,816",0.86,143,,21,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Tennessee,Tennessee,02/01/2020,04/25/2020,114,"17,396",0.9,"1,317",56,119,,
+04/27/2020,By state,Texas,Texas,02/01/2020,04/25/2020,347,"47,230",0.9,"3,497",135,310,,
+04/27/2020,By state,Utah,Utah,02/01/2020,04/25/2020,18,"4,551",0.93,267,,38,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Vermont,Vermont,02/01/2020,04/25/2020,36,"1,521",1,105,,14,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Virginia,Virginia,02/01/2020,04/25/2020,211,"16,835",0.94,912,67,101,,
+04/27/2020,By state,Washington,Washington,02/01/2020,04/25/2020,527,"13,708",0.92,"1,159",281,98,,
+04/27/2020,By state,West Virginia,West Virginia,02/01/2020,04/25/2020,,"4,796",0.81,348,0,56,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Wisconsin,Wisconsin,02/01/2020,04/25/2020,182,"13,146",0.96,754,29,144,,
+04/27/2020,By state,Wyoming,Wyoming,02/01/2020,04/25/2020,,"1,085",0.94,83,0,,,One or more data cells have counts <10 and have been suppressed in accordance with NCHS confidentiality standards.
+04/27/2020,By state,Puerto Rico,Puerto Rico,02/01/2020,04/25/2020,51,"4,876",0.65,685,26,28,,
+04/27/2020,By sex,United States,Total deaths,02/01/2020,04/25/2020,"27,674","673,580",0.91,"57,480","12,398","5,668",,
+04/27/2020,By sex,United States,Male,02/01/2020,04/25/2020,"15,923","347,539",0.91,"30,733","7,157","2,903",,
+04/27/2020,By sex,United States,Female,02/01/2020,04/25/2020,"11,750","326,018",0.91,"26,746","5,240","2,765",,
+04/27/2020,By sex,United States,Unknown,02/01/2020,04/25/2020,1,23,0.91,1,1,0,,
+04/27/2020,By place of death,United States,Total,02/01/2020,04/25/2020,"27,674","673,580",0.91,"57,480","12,398","5,668",,
+04/27/2020,By place of death,United States,"Healthcare setting, inpatient",02/01/2020,04/25/2020,"19,178","193,765",0.91,"39,369","9,903","3,544",,
+04/27/2020,By place of death,United States,"Healthcare setting, outpatient or emergency room",02/01/2020,04/25/2020,"1,431","40,122",0.91,"2,235",537,182,,
+04/27/2020,By place of death,United States,"Healthcare setting, dead on arrival",02/01/2020,04/25/2020,33,"1,767",0.91,44,10,11,,
+04/27/2020,By place of death,United States,Decedent's home,02/01/2020,04/25/2020,"2,073","217,574",0.91,"4,367",275,"1,132",,
+04/27/2020,By place of death,United States,Hospice facility,02/01/2020,04/25/2020,334,"47,811",0.91,"2,916",162,285,,
+04/27/2020,By place of death,United States,Nursing home/long term care facility,02/01/2020,04/25/2020,"4,341","130,207",0.91,"7,624","1,429",436,,
+04/27/2020,By place of death,United States,Other,02/01/2020,04/25/2020,279,"42,210",0.91,911,80,78,,
+04/27/2020,By place of death,United States,Place of death unknown,02/01/2020,04/25/2020,5,124,0.91,14,2,0,,
